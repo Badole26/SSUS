@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 from database.mongodb import students_collection
-st.title("Student Details")
+st.title(":rainbow[Student Details]")
 search = st.text_input(
     "Search Student"
 )
