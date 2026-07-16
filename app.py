@@ -6,7 +6,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-st.title("Smart Student Utility System")
+st.title(":rainbow[Smart Student Utility System]")
           
 st.write(
     "Student Management and Utilities"
